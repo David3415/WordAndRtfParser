@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BrowseForFolderClass.cpp
+E:\VS\Не Удалять!!!!!\ConsoleApplication1\BrowseForFolderClass.h(1,9): warning C4068: unknown pragma 'onse'
+  (compiling source file 'BrowseForFolderClass.cpp')
+  
+  ______main.cpp
+  main.cpp
+E:\VS\Не Удалять!!!!!\ConsoleApplication1\BrowseForFolderClass.h(1,9): warning C4068: unknown pragma 'onse'
+  (compiling source file 'main.cpp')
+  
+E:\VS\Не Удалять!!!!!\ConsoleApplication1\main.cpp(23,6): warning C4101: 'hdc': unreferenced local variable
+E:\VS\Не Удалять!!!!!\ConsoleApplication1\main.cpp(22,14): warning C4101: 'ps': unreferenced local variable
+  Generating Code...
+  ConsoleApplication1.vcxproj -> E:\VS\Не Удалять!!!!!\x64\Debug\MSWordAndRTFParseApp.exe

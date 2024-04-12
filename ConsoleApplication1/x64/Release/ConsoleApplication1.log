@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\dgagi\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(208,19): warning C4244: '=': conversion from 'wchar_t' to 'unsigned char', possible loss of data
+  Rtf_parse_Class.cpp
+  Vocab_Rtf.cpp
+  WndOpenClass.cpp
+  Vocab.cpp
+  Wstring_convert.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+ConsoleApplication1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+Rtf_parse_Class.obj : error LNK2001: unresolved external symbol "public: static class std::vector<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > Vocab_Rtf::openVocabRtfVec" (?openVocabRtfVec@Vocab_Rtf@@2V?$vector@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@V?$allocator@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@@2@@std@@A)
+C:\Users\dgagi\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe : fatal error LNK1120: 1 unresolved externals
